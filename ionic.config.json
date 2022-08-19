@@ -1,0 +1,7 @@
+{
+  "name": "FS Bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
